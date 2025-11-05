@@ -1,0 +1,7 @@
+kivy==2.1.0
+pyjnius
+requests
+requests-toolbelt
+pycryptodome
+tqdm
+plyer

@@ -1,0 +1,93 @@
+#:kivy 2.1.0
+
+<RootWidget@BoxLayout>:
+    orientation: 'vertical'
+    padding: dp(8)
+    spacing: dp(8)
+
+    BoxLayout:
+        size_hint_y: None
+        height: '40dp'
+        Label:
+            text: "API Key:"
+            size_hint_x: .22
+        TextInput:
+            id: api_key
+            multiline: False
+            hint_text: "Enter Abyss API key"
+        Button:
+            text: "Save"
+            size_hint_x: .2
+            on_release: app.save_config()
+
+    BoxLayout:
+        size_hint_y: None
+        height: '40dp'
+        Label:
+            text: "Folder:"
+            size_hint_x: .22
+        TextInput:
+            id: folder_path
+            multiline: False
+            hint_text: "/storage/emulated/0/Movies"
+        Button:
+            text: "Pick (SAF)"
+            size_hint_x: .2
+            on_release: app.root.ids.rootbox.dispatch('on_pick_saf')
+        Button:
+            text: "Pick (Simple)"
+            size_hint_x: .2
+            on_release: app.root.ids.rootbox.dispatch('on_pick_simple')
+
+    BoxLayout:
+        size_hint_y: None
+        height: '48dp'
+        Button:
+            id: start_btn
+            text: "Start Upload"
+            on_release: app.root.ids.rootbox.dispatch('on_start_upload')
+        Button:
+            text: "Stop"
+            on_release: app.root.ids.rootbox.dispatch('on_stop_upload')
+        Button:
+            text: "Check Update"
+            on_release: app.root.ids.rootbox.dispatch('on_check_update')
+        Button:
+            text: "Open Player"
+            on_release: app.root.ids.rootbox.dispatch('on_open_player')
+
+    ProgressBar:
+        id: progress_bar
+        max: 100
+        value: 0
+        size_hint_y: None
+        height: '18dp'
+
+    Label:
+        id: current_file
+        text: "Current: -"
+        size_hint_y: None
+        height: '28dp'
+
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: "Upload Log (tap a line to play URL)"
+            size_hint_y: None
+            height: '24dp'
+        ScrollView:
+            GridLayout:
+                id: log_area
+                cols: 1
+                size_hint_y: None
+                height: self.minimum_height
+                row_default_height: '30dp'
+
+<RootBox@RootWidget>:
+    id: rootbox
+    on_pick_saf: None
+    on_pick_simple: None
+    on_start_upload: None
+    on_stop_upload: None
+    on_check_update: None
+    on_open_player: None
