@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AnimeXstream - Private Uploader (Kivy)
 
 Place this folder on your device. Edit assets/public_key.pem with your server public key.
@@ -17,3 +18,6 @@ Server needs:
 - Signed APK uploads.
 
 Important: Silent installs are not allowed; installer will prompt user.
+=======
+# AnimeXstream-Uploader-App1
+>>>>>>> 426c8aa36bff54a9672c8d3357ad5b2f0628c972
