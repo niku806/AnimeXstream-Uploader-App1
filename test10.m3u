@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
+https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (576p)
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (1080p)
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (576p)
+https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (1080p)
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (576p)
+https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
+https://cdn-2.pishow.tv/live/1613/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM (1080p)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
