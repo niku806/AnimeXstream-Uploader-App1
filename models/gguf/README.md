@@ -2,23 +2,17 @@
 
 **Model**: Anime AI (SmolLM2-135M-Instruct + LoRA Round-5 merged)
 **Developer**: Om Sharma (AnimeXstream)
-**Format**: GGUF Q4_K_M
+**Format**: GGUF F16 (no quantization - best quality)
+
+## Files
+- anime-ai-f16.gguf - Full precision F16 (~270 MB)
 
 ## Termux usage
-
-1. Install Termux packages:
-   pkg install git cmake clang python -y
-
-2. Clone this repo:
-   git clone https://github.com/niku806/AnimeXstream-Uploader-App1.git
-   cd AnimeXstream-Uploader-App1
-
-3. Download llama.cpp Termux binary from:
-   https://github.com/ggml-org/llama.cpp/releases
-
-4. Run inference (prompt uses SmolLM2 chat template):
-   ./llama-cli -m models/gguf/anime-ai-Q4_K_M.gguf -n 200 -c 512 --temp 0
+   llama-cli -m models/gguf/anime-ai-f16.gguf \
+     -p "<|im_start|>system\nYou are Anime AI.<|im_end|>\n
+         <|im_start|>user\nAnime: X, Season: 1, Episode: 1<|im_end|>\n
+         <|im_start|>assistant\n" \
+     -n 200 -c 512 --temp 0.2 -t 4
 
 ## Safety
 - No URLs, IDs, or streaming links in training data.
-- Model provides metadata suggestions, not guaranteed production data.
