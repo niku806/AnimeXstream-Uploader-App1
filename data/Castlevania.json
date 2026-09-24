@@ -1,0 +1,103 @@
+{
+  "anime_name": "Castlevania",
+  "slug": "",
+  "total_seasons": 2,
+  "total_episodes": 5,
+  "banner_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 4,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "f4b31bee138ff5f7b84ce1575a738f95",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2Z3aE41SHlweiJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/f4b31bee138ff5f7b84ce1575a738f95",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "category_1": "castlevania",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2017",
+          "keywords": "castlevania"
+        },
+        {
+          "episode": "2",
+          "title": "Episode 2",
+          "video_id": "367ac971f08b41f2fe1248a63e28e837",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2xEZU0tVjZ3byJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/367ac971f08b41f2fe1248a63e28e837",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "category_1": "castlevania",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2017",
+          "keywords": "castlevania"
+        },
+        {
+          "episode": "3",
+          "title": "Episode 3",
+          "video_id": "8beca3817318ec14b010b1e4a39b4380",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcLzh1enBlRHRaVCJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/8beca3817318ec14b010b1e4a39b4380",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "category_1": "castlevania",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2017",
+          "keywords": "castlevania"
+        },
+        {
+          "episode": "4",
+          "title": "Episode 4",
+          "video_id": "ecfb953d9d17e80aa226d13ff9dd04a8",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0xSRzVuZU1vbCJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/ecfb953d9d17e80aa226d13ff9dd04a8",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "category_1": "castlevania",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2017",
+          "keywords": "castlevania"
+        }
+      ]
+    },
+    "4": {
+      "season": "4",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "10",
+          "title": "Latest DubS4E10",
+          "video_id": "09859012c567eb2b02d10dddf624e9d3",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL1d5X1E3bnlnTyJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/09859012c567eb2b02d10dddf624e9d3",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+          "category_1": "castlevania",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2017",
+          "keywords": "castlevania"
+        }
+      ]
+    }
+  }
+}

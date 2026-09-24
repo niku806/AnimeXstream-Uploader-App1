@@ -1,0 +1,33 @@
+{
+  "anime_name": "Dragon Ball Z: Battle of Gods",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Dragon Ball Z: Battle of Gods",
+          "video_id": "a7da6ba0505a41b98bd85907244c4c30",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9CLXgxOERXd0MifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNHNoV19BZTVtIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hMUFDZUJKeFgifSx7Imxhbmd1YWdlIjoiTWFsYXlhbGFtIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2pjVVQyMnlFeSJ9LHsibGFuZ3VhZ2UiOiJLYW5uYWRhIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3lqQlVSNmxwRyJ9LHsibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL1F3eWl1VG4xLSJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC80TGFSMGlfbzUifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/a7da6ba0505a41b98bd85907244c4c30",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
+          "category_1": "dragon, ball, z, battle, of, gods",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "dragon, ball, z, battle, of, gods"
+        }
+      ]
+    }
+  }
+}

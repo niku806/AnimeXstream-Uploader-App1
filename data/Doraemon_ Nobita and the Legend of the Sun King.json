@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Legend of the Sun King",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Legend of the Sun King",
+          "video_id": "0cf5d42e34cfeb8ae58bf0b5eca73375",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9vRnBySVdEOXEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbzJMX1gtNGpoIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC84cTd0ejdoRlEifSx7Imxhbmd1YWdlIjoiS2FubmFkYSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8zZHp2NWdER0gifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvLTNWWHdpZXJHIn1d",
+          "video_url2": "https://as-cdn21.top/video/0cf5d42e34cfeb8ae58bf0b5eca73375",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+          "category_1": "doraemon, nobita, and, the, legend, of, the, sun, king",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, legend, of, the, sun, king"
+        }
+      ]
+    }
+  }
+}

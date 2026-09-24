@@ -1,0 +1,33 @@
+{
+  "anime_name": "Shinchan Movie: Dark Tama Tama Thrilling Chase",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/4rLQFXpnE4m87NS31CKwjRspGrd.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/4rLQFXpnE4m87NS31CKwjRspGrd.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rLQFXpnE4m87NS31CKwjRspGrd.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Shinchan Movie: Dark Tama Tama Thrilling Chase",
+          "video_id": "a4396f61160d9bfa1ea9114dacd37247",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9vMTdtc0pFd20ifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/a4396f61160d9bfa1ea9114dacd37247",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/4rLQFXpnE4m87NS31CKwjRspGrd.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/4rLQFXpnE4m87NS31CKwjRspGrd.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/4rLQFXpnE4m87NS31CKwjRspGrd.jpg",
+          "category_1": "shinchan, movie, dark, tama, tama, thrilling, chase",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "shinchan, movie, dark, tama, tama, thrilling, chase"
+        }
+      ]
+    }
+  }
+}

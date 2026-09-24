@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Space Heroes",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Space Heroes",
+          "video_id": "3fc703661503434d7524267dfdd3e668",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9lZHhlYmlDRXEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSE1VQ29XeWVUNyJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTmdNdUtSQzhBIn0seyJsYW5ndWFnZSI6Ikthbm5hZGEiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaVpVMVpCc01hIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2g4YmxvTnR6QiJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/3fc703661503434d7524267dfdd3e668",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+          "category_1": "doraemon, nobita, and, the, space, heroes",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, space, heroes"
+        }
+      ]
+    }
+  }
+}

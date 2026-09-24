@@ -1,0 +1,33 @@
+{
+  "anime_name": "Slugterra: Into The Shadows",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Slugterra: Into The Shadows",
+          "video_id": "d756d3d2b9dac72449a6a6926534558a",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9wOWdLQmc4ZHRoIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWkU4V2RDc2FXIn1d",
+          "video_url2": "https://as-cdn21.top/video/d756d3d2b9dac72449a6a6926534558a",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg",
+          "category_1": "slugterra, into, the, shadows",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "slugterra, into, the, shadows"
+        }
+      ]
+    }
+  }
+}

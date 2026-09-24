@@ -1,0 +1,33 @@
+{
+  "anime_name": "Shinchan Movie: The Golden Sword",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Shinchan Movie: The Golden Sword",
+          "video_id": "3ff5042bc9d37fc481ca2b15f46618d7",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qSWZtRzFGNUoifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNWdqQVpESVg3In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93SGpyaUVRdUsifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVlBCN3VSQS1NIn1d",
+          "video_url2": "https://as-cdn21.top/video/3ff5042bc9d37fc481ca2b15f46618d7",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg",
+          "category_1": "shinchan, movie, the, golden, sword",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "shinchan, movie, the, golden, sword"
+        }
+      ]
+    }
+  }
+}

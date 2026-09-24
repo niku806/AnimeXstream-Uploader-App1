@@ -1,0 +1,113 @@
+{
+  "anime_name": "Takopi's Original Sin",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 6,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "7fa2bf754c748d931e34e03e032f4e72",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9jMTRFOGJjamIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRGtUaXNaNS1tIn1d",
+          "video_url2": "https://as-cdn21.top/video/7fa2bf754c748d931e34e03e032f4e72",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "category_1": "takopis, original, sin",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "takopis, original, sin"
+        },
+        {
+          "episode": "2",
+          "title": "Episode 2",
+          "video_id": "0f29370d9da664c1e143182f37301063",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9uMm5ERHJsZThQIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2VhckQzQXNIWiJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/0f29370d9da664c1e143182f37301063",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "category_1": "takopis, original, sin",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "takopis, original, sin"
+        },
+        {
+          "episode": "3",
+          "title": "Episode 3",
+          "video_id": "59a6cd2175a468225a105a7cd7f20ec4",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82NjNpaWZxb0wifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSDB1VFR4LVVQIn1d",
+          "video_url2": "https://as-cdn21.top/video/59a6cd2175a468225a105a7cd7f20ec4",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "category_1": "takopis, original, sin",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "takopis, original, sin"
+        },
+        {
+          "episode": "4",
+          "title": "Episode 4",
+          "video_id": "743006f5b956eb5d80f0662463426b2b",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qWFlCT1k2QVUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTGxNNGw3aWg4In1d",
+          "video_url2": "https://as-cdn21.top/video/743006f5b956eb5d80f0662463426b2b",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "category_1": "takopis, original, sin",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "takopis, original, sin"
+        },
+        {
+          "episode": "5",
+          "title": "Episode 5",
+          "video_id": "5246bf5f765e7132db4eaf3286f24782",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qb2FMdjNnV3cifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNXl0dEZOWmJLIn1d",
+          "video_url2": "https://as-cdn21.top/video/5246bf5f765e7132db4eaf3286f24782",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "category_1": "takopis, original, sin",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "takopis, original, sin"
+        },
+        {
+          "episode": "6",
+          "title": "Latest DubS1E6",
+          "video_id": "657ad4f3e2afdf70f27fe834691fb65a",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9JNFNRanRiM0wifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvd3QwUDJLQmJPIn1d",
+          "video_url2": "https://as-cdn21.top/video/657ad4f3e2afdf70f27fe834691fb65a",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+          "category_1": "takopis, original, sin",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "takopis, original, sin"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Castle of the Undersea Devil",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Castle of the Undersea Devil",
+          "video_id": "a0832439acb9c7270f615a7f18d408af",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9IOFNKWFVCRTBNIn0seyJsYW5ndWFnZSI6IlRhbWlsIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0Y0dGtWZTA3WSJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvR0VMWVFBWTdqIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2tSeDVQWW0wRSJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/a0832439acb9c7270f615a7f18d408af",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+          "category_1": "doraemon, nobita, and, the, castle, of, the, undersea, devil",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, castle, of, the, undersea, devil"
+        }
+      ]
+    }
+  }
+}

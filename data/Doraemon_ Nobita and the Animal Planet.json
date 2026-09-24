@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Animal Planet",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Animal Planet",
+          "video_id": "0a90e4944afb2476c3021501c165a937",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9oZDdfZm1vSGEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvY2Y0aTdJZVFUIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wTjBTZmZkWmIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvS1RlMzdRVmZSIn1d",
+          "video_url2": "https://as-cdn21.top/video/0a90e4944afb2476c3021501c165a937",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+          "category_1": "doraemon, nobita, and, the, animal, planet",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, animal, planet"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: The Record of Nobita's Parallel Journey to the West",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: The Record of Nobita's Parallel Journey to the West",
+          "video_id": "66d65498077ac583806d1c8b684b946e",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rQzFVMGJzb2cifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSzFhWUhnbGVIIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9uU0Y0Mm9qc0sifSx7Imxhbmd1YWdlIjoiS2FubmFkYSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ubmFrR1VxMTYifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvV1lnbzU3Ukw3In1d",
+          "video_url2": "https://as-cdn21.top/video/66d65498077ac583806d1c8b684b946e",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+          "category_1": "doraemon, the, record, of, nobitas, parallel, journey, to, the, west",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, the, record, of, nobitas, parallel, journey, to, the, west"
+        }
+      ]
+    }
+  }
+}

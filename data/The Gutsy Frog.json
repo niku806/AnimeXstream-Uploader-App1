@@ -1,0 +1,135 @@
+{
+  "anime_name": "The Gutsy Frog",
+  "slug": "",
+  "total_seasons": 2,
+  "total_episodes": 7,
+  "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 6,
+      "episodes": [
+        {
+          "episode": "7",
+          "title": "FirstS1E7",
+          "video_id": "9ff0525c64bf3d4c9957a1d4397f1b40",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9reDNxamF2dmQifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/9ff0525c64bf3d4c9957a1d4397f1b40",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        },
+        {
+          "episode": "9",
+          "title": "Episode 9",
+          "video_id": "a11ce019e96a4c60832eadd755a17a58",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TUWM0SkJCODIifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/a11ce019e96a4c60832eadd755a17a58",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        },
+        {
+          "episode": "11",
+          "title": "Episode 11",
+          "video_id": "b1b0432ceafb0ce714426e9114852ac7",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9JTWlDMVQ4b2kifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/b1b0432ceafb0ce714426e9114852ac7",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        },
+        {
+          "episode": "12",
+          "title": "Episode 12",
+          "video_id": "1c67df9e0a5cfefa030b853983324004",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xUGZlMXpwaF8ifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/1c67df9e0a5cfefa030b853983324004",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        },
+        {
+          "episode": "13",
+          "title": "Episode 13",
+          "video_id": "275d7fb2fd45098ad5c3ece2ed4a2824",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qWmtfQW5ONC0ifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/275d7fb2fd45098ad5c3ece2ed4a2824",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        },
+        {
+          "episode": "14",
+          "title": "Episode 14",
+          "video_id": "769675d7c11f336ae6573e7e533570ec",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Ic1hGa3c1bmYifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC96b2ZyQWlzYnAifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/769675d7c11f336ae6573e7e533570ec",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        }
+      ]
+    },
+    "4": {
+      "season": "4",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "19",
+          "title": "Latest DubS4E19",
+          "video_id": "aa6b7ad9d68bf3443c35d23de844463b",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9tRk52MG5lcUIifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/aa6b7ad9d68bf3443c35d23de844463b",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+          "category_1": "the, gutsy, frog",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 1972",
+          "keywords": "the, gutsy, frog"
+        }
+      ]
+    }
+  }
+}

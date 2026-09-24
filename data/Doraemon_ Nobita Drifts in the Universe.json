@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita Drifts in the Universe",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/48na9Jhxix2zFCZEyD3hkNxxpaV.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/48na9Jhxix2zFCZEyD3hkNxxpaV.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/48na9Jhxix2zFCZEyD3hkNxxpaV.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita Drifts in the Universe",
+          "video_id": "8d80b953e6dab669d98c905f7527fedd",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9aaTlGZzFUY2wifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUlN5dko1VW1ETCJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvamh5RnV2TjJIIn0seyJsYW5ndWFnZSI6Ikthbm5hZGEiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvajZjaEp6QWxsdCJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wNlBJaktoeG4ifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/8d80b953e6dab669d98c905f7527fedd",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/48na9Jhxix2zFCZEyD3hkNxxpaV.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/48na9Jhxix2zFCZEyD3hkNxxpaV.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/48na9Jhxix2zFCZEyD3hkNxxpaV.jpg",
+          "category_1": "doraemon, nobita, drifts, in, the, universe",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, drifts, in, the, universe"
+        }
+      ]
+    }
+  }
+}

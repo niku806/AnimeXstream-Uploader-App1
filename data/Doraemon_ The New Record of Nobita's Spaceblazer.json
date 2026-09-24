@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: The New Record of Nobita's Spaceblazer",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: The New Record of Nobita's Spaceblazer",
+          "video_id": "a7e00935bd22418f319b10051ed4349e",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC84NjNocGlLdlYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZThxWDRGZkFoIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9oYmJ5bk1GSWMifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUDJTNm80cUtNIn1d",
+          "video_url2": "https://as-cdn21.top/video/a7e00935bd22418f319b10051ed4349e",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+          "category_1": "doraemon, the, new, record, of, nobitas, spaceblazer",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, the, new, record, of, nobitas, spaceblazer"
+        }
+      ]
+    }
+  }
+}

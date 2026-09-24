@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Spiral City",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Spiral City",
+          "video_id": "dff4ba680e945e400d3d800a9fa29f3e",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sTVQwaWFKVFkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvU19KNDBWZlhzIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9CUGcwTVNLX0MifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZklNdUYtN3RzRSJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/dff4ba680e945e400d3d800a9fa29f3e",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+          "category_1": "doraemon, nobita, and, the, spiral, city",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, spiral, city"
+        }
+      ]
+    }
+  }
+}

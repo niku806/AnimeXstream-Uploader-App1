@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon the Movie: Black",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon the Movie: Black",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82WWpZd0I5NC0ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9UM0hERXBDQjIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWEdTb2hoX2RrIn1d",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+          "category_1": "pokmon, the, movie, black",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, the, movie, black"
+        }
+      ]
+    }
+  }
+}

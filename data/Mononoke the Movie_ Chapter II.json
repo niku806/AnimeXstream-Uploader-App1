@@ -1,0 +1,33 @@
+{
+  "anime_name": "Mononoke the Movie: Chapter II",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Mononoke the Movie: Chapter II",
+          "video_id": "6b4a9e228208a5008088d8ad6e1b3dd7",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC91NFdCUm1KeTcifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC91UW9kNDhMNEwifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSjc0Wm90S21wIn1d",
+          "video_url2": "https://as-cdn21.top/video/6b4a9e228208a5008088d8ad6e1b3dd7",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/t5a4J7Ctnl0w1FWg2ld0mKNvizK.jpg",
+          "category_1": "mononoke, the, movie, chapter, ii",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "mononoke, the, movie, chapter, ii"
+        }
+      ]
+    }
+  }
+}

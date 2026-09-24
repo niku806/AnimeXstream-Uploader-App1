@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: New Nobita's Great Demon",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: New Nobita's Great Demon",
+          "video_id": "1bab3ee1fcee95ea059f452e9c6face6",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9HUWFUODQ3aXkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSjhBRGw5dWZuIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9vaHZsUi1uTDcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvS3NTRHk0eEFhIn1d",
+          "video_url2": "https://as-cdn21.top/video/1bab3ee1fcee95ea059f452e9c6face6",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+          "category_1": "doraemon, new, nobitas, great, demon",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, new, nobitas, great, demon"
+        }
+      ]
+    }
+  }
+}

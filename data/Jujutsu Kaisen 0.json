@@ -1,0 +1,33 @@
+{
+  "anime_name": "Jujutsu Kaisen 0",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Jujutsu Kaisen 0",
+          "video_id": "6613167eafbef4130c088f48920bfdea",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9YQkJPektCZW4ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvR0RTU3d1eUhpIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9SNF9EcmMzQ3QifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82WjNaa09oeVQifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSGhDVXRWY0t3In1d",
+          "video_url2": "https://as-cdn21.top/video/6613167eafbef4130c088f48920bfdea",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+          "category_1": "jujutsu, kaisen, 0",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "jujutsu, kaisen, 0"
+        }
+      ]
+    }
+  }
+}

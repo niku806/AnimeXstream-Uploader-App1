@@ -1,0 +1,97 @@
+{
+  "anime_name": "Ghost in the Shell: Arise",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "banner_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 5,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "e33b5ba509e687654cd19c642ac2dc09",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9XTFNheno4R0UifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSTRFZ3ByWE1OIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Fdzk5TGZiMXMifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9QNW14YnpEMGUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWWdtQmZyWkxYIn1d",
+          "video_url2": "https://as-cdn21.top/video/e33b5ba509e687654cd19c642ac2dc09",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "category_1": "ghost, in, the, shell, arise",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2013",
+          "keywords": "ghost, in, the, shell, arise"
+        },
+        {
+          "episode": "2",
+          "title": "Episode 2",
+          "video_id": "46fb6ac698d54a632d70b6b83fd6719a",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8za2VrTzY2c3gifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRHFvVTZ6QThFIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9zVVhyVGNtWFMifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9xRVNhTFN6a1cifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvYjZNMDJLR2cyIn1d",
+          "video_url2": "https://as-cdn21.top/video/46fb6ac698d54a632d70b6b83fd6719a",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "category_1": "ghost, in, the, shell, arise",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2013",
+          "keywords": "ghost, in, the, shell, arise"
+        },
+        {
+          "episode": "3",
+          "title": "Episode 3",
+          "video_id": "7337bc5b4a00fa2ee237cf50a57b288d",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9GTVdPemNGTXcifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVUpYN1JIOVY1In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9mRzA1Mk5BMDcifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9SNzR4N1NoOVBtIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3lTckxlOGkwQSJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/7337bc5b4a00fa2ee237cf50a57b288d",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "category_1": "ghost, in, the, shell, arise",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2013",
+          "keywords": "ghost, in, the, shell, arise"
+        },
+        {
+          "episode": "4",
+          "title": "Episode 4",
+          "video_id": "8fc00922bc09442f10ff8a8be0973604",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81aUJfb0cwVkYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvOHVBZW1YaEVIIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9PSmlvQlZLTTgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9aeGVHVWxnZjIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbkdUZDBvcXRxIn1d",
+          "video_url2": "https://as-cdn21.top/video/8fc00922bc09442f10ff8a8be0973604",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "category_1": "ghost, in, the, shell, arise",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2013",
+          "keywords": "ghost, in, the, shell, arise"
+        },
+        {
+          "episode": "5",
+          "title": "Latest DubS1E5",
+          "video_id": "cd3b6e78242b4c8faa986194ba2bfc58",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9IYlJvWXhGb0YifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvY3pfSVdKSEkyIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9tR1R5clV5OC0ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcTJodnB5T2JTIn1d",
+          "video_url2": "https://as-cdn21.top/video/cd3b6e78242b4c8faa986194ba2bfc58",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+          "category_1": "ghost, in, the, shell, arise",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2013",
+          "keywords": "ghost, in, the, shell, arise"
+        }
+      ]
+    }
+  }
+}

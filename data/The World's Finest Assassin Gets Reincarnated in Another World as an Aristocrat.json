@@ -1,0 +1,49 @@
+{
+  "anime_name": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "banner_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 2,
+      "episodes": [
+        {
+          "episode": "11",
+          "title": "FirstS1E11",
+          "video_id": "c8194823937cbafcfcef5b0c21de59bd",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZTmFoNU1qUEUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9zVEJrM1hKQjYifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRVFlWThIZkxEIn1d",
+          "video_url2": "https://as-cdn21.top/video/c8194823937cbafcfcef5b0c21de59bd",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+          "category_1": "the, worlds, finest, assassin, gets, reincarnated, in, another, world, as, an, aristocrat",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2021",
+          "keywords": "the, worlds, finest, assassin, gets, reincarnated, in, another, world, as, an, aristocrat"
+        },
+        {
+          "episode": "12",
+          "title": "Latest DubS1E12",
+          "video_id": "9079ea527e08a24dfad44e3302d5f091",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Oc1F5TmRDVmkifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82ZEVZSmlfQnYifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaTY4STliUkM1In1d",
+          "video_url2": "https://as-cdn21.top/video/9079ea527e08a24dfad44e3302d5f091",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+          "category_1": "the, worlds, finest, assassin, gets, reincarnated, in, another, world, as, an, aristocrat",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2021",
+          "keywords": "the, worlds, finest, assassin, gets, reincarnated, in, another, world, as, an, aristocrat"
+        }
+      ]
+    }
+  }
+}

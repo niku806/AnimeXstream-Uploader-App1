@@ -1,0 +1,33 @@
+{
+  "anime_name": "My Neighbor Totoro",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "My Neighbor Totoro",
+          "video_id": "fb89fd138b104dcf8e2077ad2a23954d",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9uR3ZMeFFTZ0sifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9CNWF1SkNheWYifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVFZWNVJKTGVKIn1d",
+          "video_url2": "https://as-cdn21.top/video/fb89fd138b104dcf8e2077ad2a23954d",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+          "category_1": "my, neighbor, totoro",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "my, neighbor, totoro"
+        }
+      ]
+    }
+  }
+}

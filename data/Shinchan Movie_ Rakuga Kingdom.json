@@ -1,0 +1,33 @@
+{
+  "anime_name": "Shinchan Movie: Rakuga Kingdom",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Shinchan Movie: Rakuga Kingdom",
+          "video_id": "4b7bb0379e2a232c12329c9a212801a9",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9PdjFWLTVfdE0ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvYURiUFYwa2owIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pdW83T3BTamoifSx7Imxhbmd1YWdlIjoiTWFsYXlhbGFtIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0JjMDIxYVBBTiJ9LHsibGFuZ3VhZ2UiOiJLYW5uYWRhIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0s2bnNub2xxaSJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC83Nm5ZRDV5UHgifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/4b7bb0379e2a232c12329c9a212801a9",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+          "category_1": "shinchan, movie, rakuga, kingdom",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "shinchan, movie, rakuga, kingdom"
+        }
+      ]
+    }
+  }
+}

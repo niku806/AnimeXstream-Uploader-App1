@@ -1,0 +1,33 @@
+{
+  "anime_name": "Miraculous World: New York United HeroeZ",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Miraculous World: New York United HeroeZ",
+          "video_id": "321cf86b4c9f5ddd04881a44067c2a5a",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZTjFWdTY4eDQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9WV1JGQXpkMkIifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/321cf86b4c9f5ddd04881a44067c2a5a",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+          "category_1": "miraculous, world, new, york, united, heroez",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "miraculous, world, new, york, united, heroez"
+        }
+      ]
+    }
+  }
+}

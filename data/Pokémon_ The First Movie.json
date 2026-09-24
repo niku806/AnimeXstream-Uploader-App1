@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon: The First Movie",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon: The First Movie",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC85RE9ndlh6Y1EifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC92XzVxbTRYTmcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNVlWb2ludDh4In1d",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+          "category_1": "pokmon, the, first, movie",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, the, first, movie"
+        }
+      ]
+    }
+  }
+}

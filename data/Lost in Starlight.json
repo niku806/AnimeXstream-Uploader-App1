@@ -1,0 +1,33 @@
+{
+  "anime_name": "Lost in Starlight",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Lost in Starlight",
+          "video_id": "4963e568b60129071a6836087915b103",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9zV3l6c2tXV1UifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRUdmWG9KMFpMIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9lYU1OWFFTbjEifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8yOHNLMm8weE0ifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/4963e568b60129071a6836087915b103",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+          "category_1": "lost, in, starlight",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "lost, in, starlight"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon Detective Pikachu",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon Detective Pikachu",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9RUFluZ3pRNjQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rVEpGaVc2YTkifV0%3D",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg",
+          "category_1": "pokmon, detective, pikachu",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, detective, pikachu"
+        }
+      ]
+    }
+  }
+}

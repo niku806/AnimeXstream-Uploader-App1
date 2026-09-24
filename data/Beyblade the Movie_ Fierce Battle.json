@@ -1,0 +1,33 @@
+{
+  "anime_name": "Beyblade the Movie: Fierce Battle",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Beyblade the Movie: Fierce Battle",
+          "video_id": "e02e27e04fdff967ba7d76fb24b8069d",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9FdUw1bjlnY3UifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ES2tGbkFUbjIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRy04T1Z5dWY2In1d",
+          "video_url2": "https://as-cdn21.top/video/e02e27e04fdff967ba7d76fb24b8069d",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/oBWtnb9kmROgziBXOh4P3IMXHKz.jpg",
+          "category_1": "beyblade, the, movie, fierce, battle",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "beyblade, the, movie, fierce, battle"
+        }
+      ]
+    }
+  }
+}

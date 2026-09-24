@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Galaxy Super",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Galaxy Super",
+          "video_id": "49d26be4d7b23b72bacd4db1cb00fa41",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8zbTh2bFdUWHYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvOXVGSER0Qkw2In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9COE8zSVVJWXYifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvXy0wR0kxMmNsIn1d",
+          "video_url2": "https://as-cdn21.top/video/49d26be4d7b23b72bacd4db1cb00fa41",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+          "category_1": "doraemon, nobita, and, the, galaxy, super",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, galaxy, super"
+        }
+      ]
+    }
+  }
+}

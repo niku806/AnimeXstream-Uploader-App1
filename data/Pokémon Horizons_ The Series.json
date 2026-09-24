@@ -1,0 +1,87 @@
+{
+  "anime_name": "Pokémon Horizons: The Series",
+  "slug": "",
+  "total_seasons": 2,
+  "total_episodes": 4,
+  "banner_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 3,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "",
+          "video_url": "",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "category_1": "pokmon, horizons, the, series",
+          "category_2": "",
+          "category_3": "",
+          "date": "08 - 06 - 2023",
+          "keywords": "pokmon, horizons, the, series"
+        },
+        {
+          "episode": "2",
+          "title": "Episode 2",
+          "video_id": "",
+          "video_url": "",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "category_1": "pokmon, horizons, the, series",
+          "category_2": "",
+          "category_3": "",
+          "date": "08 - 06 - 2023",
+          "keywords": "pokmon, horizons, the, series"
+        },
+        {
+          "episode": "3",
+          "title": "Episode 3",
+          "video_id": "",
+          "video_url": "",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "category_1": "pokmon, horizons, the, series",
+          "category_2": "",
+          "category_3": "",
+          "date": "08 - 06 - 2023",
+          "keywords": "pokmon, horizons, the, series"
+        }
+      ]
+    },
+    "26": {
+      "season": "26",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "3",
+          "title": "Latest DubS26E3",
+          "video_id": "",
+          "video_url": "",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+          "category_1": "pokmon, horizons, the, series",
+          "category_2": "",
+          "category_3": "",
+          "date": "08 - 06 - 2023",
+          "keywords": "pokmon, horizons, the, series"
+        }
+      ]
+    }
+  }
+}

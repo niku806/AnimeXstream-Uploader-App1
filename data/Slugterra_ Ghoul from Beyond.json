@@ -1,0 +1,33 @@
+{
+  "anime_name": "Slugterra: Ghoul from Beyond",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Slugterra: Ghoul from Beyond",
+          "video_id": "339a18def9898dd60a634b2ad8fbbd58",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9jbm9pd21TZ3oifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9fQ0pudHVPZWsifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/339a18def9898dd60a634b2ad8fbbd58",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+          "category_1": "slugterra, ghoul, from, beyond",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "slugterra, ghoul, from, beyond"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Birth of Japan",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Birth of Japan",
+          "video_id": "87a7f631aba283357925824464be7f74",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9NMnRwZndKQjMifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcF9KempHSXBuIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xNmVkTlJFWHg2In0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL1V4dllabHlncSJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/87a7f631aba283357925824464be7f74",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+          "category_1": "doraemon, nobita, and, the, birth, of, japan",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, birth, of, japan"
+        }
+      ]
+    }
+  }
+}

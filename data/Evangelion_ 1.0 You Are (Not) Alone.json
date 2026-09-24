@@ -1,0 +1,33 @@
+{
+  "anime_name": "Evangelion: 1.0 You Are (Not) Alone",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Evangelion: 1.0 You Are (Not) Alone",
+          "video_id": "4ebccfb3e317c7789f04f7a558df4537",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC95YU13aW1qQUUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9WakNUR2lURGdOIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL24xQmNqZThkRiJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/4ebccfb3e317c7789f04f7a558df4537",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+          "category_1": "evangelion, 10, you, are, not, alone",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "evangelion, 10, you, are, not, alone"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "anime_name": "Sinbad",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Sinbad",
+          "video_id": "026a39ae63343c68b5223a95f3e17616",
+          "video_url": "https://play.zephyrflick.top/video/ec4de54f2f3afa14175e5eabfc16ce1f",
+          "video_url2": "https://as-cdn21.top/video/026a39ae63343c68b5223a95f3e17616",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/pbcpCQ8sHRUhNCeCnBTgdver4N6.jpg",
+          "category_1": "sinbad",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "sinbad"
+        }
+      ]
+    }
+  }
+}

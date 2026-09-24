@@ -1,0 +1,113 @@
+{
+  "anime_name": "Scott Pilgrim Takes Off",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 6,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "cbaca3167c8aa7c3352f2e7be9300285",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8zWDRxc1gyS2oifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8waVIyOXB5VjIifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/cbaca3167c8aa7c3352f2e7be9300285",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "category_1": "scott, pilgrim, takes, off",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2023",
+          "keywords": "scott, pilgrim, takes, off"
+        },
+        {
+          "episode": "2",
+          "title": "Episode 2",
+          "video_id": "f5747f20029e7802e81c3352580ae422",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pV2h0ak1rZmsifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC94OU1UTWdKWkgifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/f5747f20029e7802e81c3352580ae422",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "category_1": "scott, pilgrim, takes, off",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2023",
+          "keywords": "scott, pilgrim, takes, off"
+        },
+        {
+          "episode": "3",
+          "title": "Episode 3",
+          "video_id": "c3df9051227efe58d6562d25e6a13dc8",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9SV19PdzRQR1UifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9aM0lRT1FCc18ifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/c3df9051227efe58d6562d25e6a13dc8",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "category_1": "scott, pilgrim, takes, off",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2023",
+          "keywords": "scott, pilgrim, takes, off"
+        },
+        {
+          "episode": "4",
+          "title": "Episode 4",
+          "video_id": "b99f4242922cd10313630b0ecccda1dc",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC96UjJJdGZJU0gifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hSmpQNVpyVTUifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/b99f4242922cd10313630b0ecccda1dc",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "category_1": "scott, pilgrim, takes, off",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2023",
+          "keywords": "scott, pilgrim, takes, off"
+        },
+        {
+          "episode": "5",
+          "title": "Episode 5",
+          "video_id": "c6bcb74c53f3b1fbb7cc951f07923003",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC85YnZldTBadnkifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93UGltOXMzT3AifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/c6bcb74c53f3b1fbb7cc951f07923003",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "category_1": "scott, pilgrim, takes, off",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2023",
+          "keywords": "scott, pilgrim, takes, off"
+        },
+        {
+          "episode": "8",
+          "title": "Latest DubS1E8",
+          "video_id": "dd4e2c1d8782aaecc1ca31b373b3faa8",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xN3NQWlhWOEIifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZYzNFbW02S1YifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/dd4e2c1d8782aaecc1ca31b373b3faa8",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg",
+          "category_1": "scott, pilgrim, takes, off",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2023",
+          "keywords": "scott, pilgrim, takes, off"
+        }
+      ]
+    }
+  }
+}

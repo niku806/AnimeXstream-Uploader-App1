@@ -1,0 +1,33 @@
+{
+  "anime_name": "Shinchan Movie: Mr. Smelly’s Ambition",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Shinchan Movie: Mr. Smelly’s Ambition",
+          "video_id": "0c7a625d5077d3baab054e3c91323a77",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9oX1NxOEZmWGYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcHRxVmlIem1vIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82a2k5LWdXNEkifSx7Imxhbmd1YWdlIjoiQmVuZ2FsaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9WWXJOUmVLVDQifSx7Imxhbmd1YWdlIjoiTWFsYXlhbGFtIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0w1RUxuUmdvRiJ9LHsibGFuZ3VhZ2UiOiJLYW5uYWRhIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL2dkUTMwNGlLMyJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rZE11bi02MnAifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/0c7a625d5077d3baab054e3c91323a77",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+          "category_1": "shinchan, movie, mr, smellys, ambition",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "shinchan, movie, mr, smellys, ambition"
+        }
+      ]
+    }
+  }
+}

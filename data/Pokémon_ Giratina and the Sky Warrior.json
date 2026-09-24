@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon: Giratina and the Sky Warrior",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon: Giratina and the Sky Warrior",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9RYmhkOHpyaDEifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Mck83djI1M1JOIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3BQM1pQa1lMbCJ9XQ%3D%3D",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+          "category_1": "pokmon, giratina, and, the, sky, warrior",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, giratina, and, the, sky, warrior"
+        }
+      ]
+    }
+  }
+}

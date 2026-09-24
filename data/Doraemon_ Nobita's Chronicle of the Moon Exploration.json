@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita's Chronicle of the Moon Exploration",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/ioI9ftVCfdhgwM0jAjfSG2pNN4S.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/ioI9ftVCfdhgwM0jAjfSG2pNN4S.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/ioI9ftVCfdhgwM0jAjfSG2pNN4S.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita's Chronicle of the Moon Exploration",
+          "video_id": "4e6934f77e86b8c41a52f986de47181f",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9NTk1SRjBxWWMifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvQmZwR0tUd0M5In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wSkgxSTBoZkcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvb0hQLUpoM3ZtIn1d",
+          "video_url2": "https://as-cdn21.top/video/4e6934f77e86b8c41a52f986de47181f",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/ioI9ftVCfdhgwM0jAjfSG2pNN4S.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/ioI9ftVCfdhgwM0jAjfSG2pNN4S.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/ioI9ftVCfdhgwM0jAjfSG2pNN4S.jpg",
+          "category_1": "doraemon, nobitas, chronicle, of, the, moon, exploration",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobitas, chronicle, of, the, moon, exploration"
+        }
+      ]
+    }
+  }
+}

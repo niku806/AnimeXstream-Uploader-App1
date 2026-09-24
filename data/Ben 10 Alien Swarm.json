@@ -1,0 +1,33 @@
+{
+  "anime_name": "Ben 10 Alien Swarm",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/5Yn9WvhVzrssgJqS5tnStITBGRN.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/5Yn9WvhVzrssgJqS5tnStITBGRN.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Yn9WvhVzrssgJqS5tnStITBGRN.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Ben 10 Alien Swarm",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9EdGhkTF9KV1YifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qeDJKcGhndWUifV0%3D",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/5Yn9WvhVzrssgJqS5tnStITBGRN.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/5Yn9WvhVzrssgJqS5tnStITBGRN.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/5Yn9WvhVzrssgJqS5tnStITBGRN.jpg",
+          "category_1": "ben, 10, alien, swarm",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "ben, 10, alien, swarm"
+        }
+      ]
+    }
+  }
+}

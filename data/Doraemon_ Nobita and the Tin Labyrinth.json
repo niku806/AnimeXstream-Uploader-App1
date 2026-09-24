@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita and the Tin Labyrinth",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita and the Tin Labyrinth",
+          "video_id": "45847868f97554aaf56672aab3f644e9",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9LaGdxQjIyTE4ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcmZLR3FLcTFCUyJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZkRmX3JVV1VjIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcLzlac2FRTXM3USJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/45847868f97554aaf56672aab3f644e9",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/bLqbZSY1uZUFtZBM0dvx6YHLiJJ.jpg",
+          "category_1": "doraemon, nobita, and, the, tin, labyrinth",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobita, and, the, tin, labyrinth"
+        }
+      ]
+    }
+  }
+}

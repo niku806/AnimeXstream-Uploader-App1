@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon the Movie: I Choose You!",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon the Movie: I Choose You!",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3pKVFEydHMyYyJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hY0Z5aE5wc1YifV0%3D",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+          "category_1": "pokmon, the, movie, i, choose, you",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, the, movie, i, choose, you"
+        }
+      ]
+    }
+  }
+}

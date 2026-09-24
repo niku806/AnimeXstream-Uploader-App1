@@ -1,0 +1,33 @@
+{
+  "anime_name": "Miraculous World: Shanghai",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Miraculous World: Shanghai",
+          "video_id": "8dc5983b8c4ef1d8fcd5f325f9a65511",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rT1htbDd4ZGUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9iWDJvbXJnYWsifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/8dc5983b8c4ef1d8fcd5f325f9a65511",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+          "category_1": "miraculous, world, shanghai",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "miraculous, world, shanghai"
+        }
+      ]
+    }
+  }
+}

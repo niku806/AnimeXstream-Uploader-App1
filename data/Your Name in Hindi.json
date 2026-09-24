@@ -1,0 +1,33 @@
+{
+  "anime_name": "Your Name in Hindi",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://i.ibb.co/wZJQvvkN/8-GJsy7w7fr-Gquw1cy9jas-OGNNI1.jpg",
+  "poster_url": "https://i.ibb.co/wZJQvvkN/8-GJsy7w7fr-Gquw1cy9jas-OGNNI1.jpg",
+  "thumbnail_url": "https://i.ibb.co/wZJQvvkN/8-GJsy7w7fr-Gquw1cy9jas-OGNNI1.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "0",
+          "title": "Your Name",
+          "video_id": "yEUThEW3H",
+          "video_url": "https://short.icu/yEUThEW3H",
+          "video_url2": "",
+          "download_url": "https://arolinks.com/download1",
+          "banner_url": "https://i.ibb.co/wZJQvvkN/8-GJsy7w7fr-Gquw1cy9jas-OGNNI1.jpg",
+          "poster_url": "https://i.ibb.co/wZJQvvkN/8-GJsy7w7fr-Gquw1cy9jas-OGNNI1.jpg",
+          "thumbnail_url": "https://i.ibb.co/wZJQvvkN/8-GJsy7w7fr-Gquw1cy9jas-OGNNI1.jpg",
+          "category_1": "Movies",
+          "category_2": "",
+          "category_3": "",
+          "date": "01 - 01 - 2025",
+          "keywords": ""
+        }
+      ]
+    }
+  }
+}

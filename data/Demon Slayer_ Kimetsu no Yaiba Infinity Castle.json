@@ -1,0 +1,33 @@
+{
+  "anime_name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+          "video_id": "948750a01b42decb760277c873238254",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9IZlVTcEs2eWQifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvdEdnRVlCU21EIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xejVHMExWUEcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvdWp6N3hGenl2In1d",
+          "video_url2": "https://as-cdn21.top/video/948750a01b42decb760277c873238254",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/n4IPqrfXEEtMC8hzV5PaCElkdNP.jpg",
+          "category_1": "demon, slayer, kimetsu, no, yaiba, infinity, castle",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "demon, slayer, kimetsu, no, yaiba, infinity, castle"
+        }
+      ]
+    }
+  }
+}

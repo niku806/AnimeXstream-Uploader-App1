@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/7NGIushHHtUuOwnDMoGWRpkrOwx.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/7NGIushHHtUuOwnDMoGWRpkrOwx.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/7NGIushHHtUuOwnDMoGWRpkrOwx.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9IbTdmclN1N0sifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9GdHd4OUtlMloifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMHBVRDRvN0JhIn1d",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/7NGIushHHtUuOwnDMoGWRpkrOwx.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/7NGIushHHtUuOwnDMoGWRpkrOwx.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/7NGIushHHtUuOwnDMoGWRpkrOwx.jpg",
+          "category_1": "pokmon, the, movie, diancie, and, the, cocoon, of, destruction",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, the, movie, diancie, and, the, cocoon, of, destruction"
+        }
+      ]
+    }
+  }
+}

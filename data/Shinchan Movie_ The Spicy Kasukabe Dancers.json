@@ -1,0 +1,33 @@
+{
+  "anime_name": "Shinchan Movie: The Spicy Kasukabe Dancers",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Shinchan Movie: The Spicy Kasukabe Dancers",
+          "video_id": "8eb42db3c9772af6dba6f1b9f7095feb",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9nRmxyZ0FYUlYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvR3pCTXloRlNtdiJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTzF3aXQwRmxGIn0seyJsYW5ndWFnZSI6IkJlbmdhbGkiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwva2U1YzJ4MVlTLSJ9LHsibGFuZ3VhZ2UiOiJNYWxheWFsYW0iLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvc1c4Mkt1eXdBIn0seyJsYW5ndWFnZSI6Ikthbm5hZGEiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvdktuMW9Ga2NNIn1d",
+          "video_url2": "https://as-cdn21.top/video/8eb42db3c9772af6dba6f1b9f7095feb",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+          "category_1": "shinchan, movie, the, spicy, kasukabe, dancers",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "shinchan, movie, the, spicy, kasukabe, dancers"
+        }
+      ]
+    }
+  }
+}

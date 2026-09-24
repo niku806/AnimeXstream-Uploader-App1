@@ -1,0 +1,33 @@
+{
+  "anime_name": "Jujutsu Kaisen: Fan Dubbed",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://i.ibb.co/9kR1nQCJ/Jujutsu-Kaisen-0-Movie-Film-All-Region.webp",
+  "poster_url": "https://i.ibb.co/9kR1nQCJ/Jujutsu-Kaisen-0-Movie-Film-All-Region.webp",
+  "thumbnail_url": "https://i.ibb.co/9kR1nQCJ/Jujutsu-Kaisen-0-Movie-Film-All-Region.webp",
+  "seasons": {
+    "0": {
+      "season": "0",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "0",
+          "title": "0 Movie 2020",
+          "video_id": "O2VBYndst",
+          "video_url": "https://short.icu/O2VBYndst",
+          "video_url2": "",
+          "download_url": "https://arolinks.com/download1",
+          "banner_url": "https://i.ibb.co/9kR1nQCJ/Jujutsu-Kaisen-0-Movie-Film-All-Region.webp",
+          "poster_url": "https://i.ibb.co/9kR1nQCJ/Jujutsu-Kaisen-0-Movie-Film-All-Region.webp",
+          "thumbnail_url": "https://i.ibb.co/9kR1nQCJ/Jujutsu-Kaisen-0-Movie-Film-All-Region.webp",
+          "category_1": "Movies",
+          "category_2": "",
+          "category_3": "",
+          "date": "",
+          "keywords": ""
+        }
+      ]
+    }
+  }
+}

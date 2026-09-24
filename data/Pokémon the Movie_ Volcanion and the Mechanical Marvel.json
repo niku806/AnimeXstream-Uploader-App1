@@ -1,0 +1,33 @@
+{
+  "anime_name": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/riv537dUuKib4KXC6Rg7CINs4xO.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/riv537dUuKib4KXC6Rg7CINs4xO.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/riv537dUuKib4KXC6Rg7CINs4xO.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+          "video_id": "",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0x0V3pLQjJMayJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Xb3hETFFiSnMifV0%3D",
+          "video_url2": "",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/riv537dUuKib4KXC6Rg7CINs4xO.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/riv537dUuKib4KXC6Rg7CINs4xO.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/riv537dUuKib4KXC6Rg7CINs4xO.jpg",
+          "category_1": "pokmon, the, movie, volcanion, and, the, mechanical, marvel",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2024",
+          "keywords": "pokmon, the, movie, volcanion, and, the, mechanical, marvel"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "anime_name": "Welcome to the Outcast's Restaurant!",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "banner_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 4,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "9d70ada63ee39c2f16e678bbf698df46",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC84STEtdF8wcjIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvYlBkbGU2WGVEIn1d",
+          "video_url2": "https://as-cdn21.top/video/9d70ada63ee39c2f16e678bbf698df46",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "category_1": "welcome, to, the, outcasts, restaurant",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "welcome, to, the, outcasts, restaurant"
+        },
+        {
+          "episode": "2",
+          "title": "Episode 2",
+          "video_id": "1ee3007cbbde3c57c6013b98fe9421a5",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ELTlRNkZIUFkifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcE9ORWRqckhCIn1d",
+          "video_url2": "https://as-cdn21.top/video/1ee3007cbbde3c57c6013b98fe9421a5",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "category_1": "welcome, to, the, outcasts, restaurant",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "welcome, to, the, outcasts, restaurant"
+        },
+        {
+          "episode": "3",
+          "title": "Episode 3",
+          "video_id": "b4e996f75bdf4c28209feba4693ff228",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DMHhIQ3YyVkUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvc0ZKeF84SHFjIn1d",
+          "video_url2": "https://as-cdn21.top/video/b4e996f75bdf4c28209feba4693ff228",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "category_1": "welcome, to, the, outcasts, restaurant",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "welcome, to, the, outcasts, restaurant"
+        },
+        {
+          "episode": "4",
+          "title": "Episode 4",
+          "video_id": "636b1370d6dfae91f2042eef96c994b1",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qMjNvcUxTTzQifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvS2hIdFN1Rk41In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC83TS1SV0diS3QifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9HOUF4dU8tRlIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWFJ1ZkJiY2VwIn1d",
+          "video_url2": "https://as-cdn21.top/video/636b1370d6dfae91f2042eef96c994b1",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+          "category_1": "welcome, to, the, outcasts, restaurant",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2025",
+          "keywords": "welcome, to, the, outcasts, restaurant"
+        }
+      ]
+    }
+  }
+}

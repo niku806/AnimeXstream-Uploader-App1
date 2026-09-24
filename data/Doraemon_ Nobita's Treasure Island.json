@@ -1,0 +1,33 @@
+{
+  "anime_name": "Doraemon: Nobita's Treasure Island",
+  "slug": "",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "banner_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "Doraemon: Nobita's Treasure Island",
+          "video_id": "a2fe4a2da6142e344912c6636a8f4758",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DWGhlQkpGZHIifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVHZfMTJkRHFiIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xQk9nQlpVYVkifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTzlZRWZxWHJSXyJ9XQ%3D%3D",
+          "video_url2": "https://as-cdn21.top/video/a2fe4a2da6142e344912c6636a8f4758",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+          "category_1": "doraemon, nobitas, treasure, island",
+          "category_2": "Movies",
+          "category_3": "",
+          "date": "15 - 07 - 2025",
+          "keywords": "doraemon, nobitas, treasure, island"
+        }
+      ]
+    }
+  }
+}

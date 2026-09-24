@@ -1,0 +1,55 @@
+{
+  "anime_name": "The Last Kids on Earth",
+  "slug": "",
+  "total_seasons": 2,
+  "total_episodes": 2,
+  "banner_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+  "seasons": {
+    "1": {
+      "season": "1",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "1",
+          "title": "FirstS1E1",
+          "video_id": "98785ca89cfbbe933921bfe68a94553b",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pcm1waUZBeUIifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Dams5cjFaS1gifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/98785ca89cfbbe933921bfe68a94553b",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+          "category_1": "the, last, kids, on, earth",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2019",
+          "keywords": "the, last, kids, on, earth"
+        }
+      ]
+    },
+    "3": {
+      "season": "3",
+      "total_episodes": 1,
+      "episodes": [
+        {
+          "episode": "10",
+          "title": "Latest DubS3E10",
+          "video_id": "4110a1994471c595f7583ef1b74ba4cb",
+          "video_url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wYzd0ZjF3b0YifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wRlJUdVRJUngifV0%3D",
+          "video_url2": "https://as-cdn21.top/video/4110a1994471c595f7583ef1b74ba4cb",
+          "download_url": "",
+          "banner_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+          "poster_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+          "thumbnail_url": "https://image.tmdb.org/t/p/w500/lTpGn2hgB0WGFGp6Q6ArkEWWTsk.jpg",
+          "category_1": "the, last, kids, on, earth",
+          "category_2": "",
+          "category_3": "",
+          "date": "17 - 06 - 2019",
+          "keywords": "the, last, kids, on, earth"
+        }
+      ]
+    }
+  }
+}
