@@ -1,0 +1,13 @@
+{
+  "current_round": 5,
+  "completed_examples": 5000,
+  "next_example": 5000,
+  "model_source": "models/round-5/",
+  "status": "completed",
+  "final_loss": 0.1682859979939799,
+  "training_time_sec": 188.4,
+  "resumed_from": "models/round-4/",
+  "replay_examples": 500,
+  "total_training_examples": 5000,
+  "learning_rate": 4e-05
+}

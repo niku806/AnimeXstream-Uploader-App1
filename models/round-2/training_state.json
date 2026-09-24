@@ -1,0 +1,10 @@
+{
+  "current_round": 2,
+  "completed_examples": 2000,
+  "next_example": 2000,
+  "model_source": "models/round-2/",
+  "status": "completed",
+  "final_loss": 0.1363891033075189,
+  "training_time_sec": 122.0,
+  "resumed_from": "models/round-1/"
+}

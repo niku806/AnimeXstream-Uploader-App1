@@ -1,0 +1,27 @@
+{
+  "round": 1,
+  "base_model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "gate_proj",
+    "v_proj",
+    "down_proj",
+    "o_proj",
+    "q_proj",
+    "k_proj",
+    "up_proj"
+  ],
+  "max_seq_len": 384,
+  "epochs": 3,
+  "batch_size": 8,
+  "grad_accum": 2,
+  "learning_rate": 0.0001,
+  "examples_trained": 1000,
+  "example_range": [
+    0,
+    1000
+  ],
+  "seed": 42
+}
